@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @Enriqueroa4
+- 👀 I’m interested in learning different programming languagues,I would like to create different types of projects that help improve people's quality of life.
+- From creating applications, automating functions, fixing bugs. I consider myself an ambivalent person, who is always willing to learn new things.
+- 
+- 🌱 I’m currently learning Html, Css, JavaScript, React and Figma.
+- 
+- 💞️ I’m looking to collaborate on Any type of projects, I am always open to new possibilities.
+- 
+- 📫 How to reach me in:
+- Twitter: https://twitter.com/Enrique72255013
+- Gmail: enriqueroa4@gmail.com
+- Facebook: https://www.facebook.com/enrique.roa.33/
+- Whatsapp: +54 3704 977100
+
